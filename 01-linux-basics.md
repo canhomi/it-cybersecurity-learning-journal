@@ -25,7 +25,9 @@ whoami
 uname -a
 ip a
 sudo apt update
-'''
+
+```bash
+
 What I Learned
 
 * How to navigate directories using the terminal
