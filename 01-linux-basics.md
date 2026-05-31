@@ -25,8 +25,7 @@ whoami
 uname -a
 ip a
 sudo apt update
-
-
+'''
 What I Learned
 
 * How to navigate directories using the terminal
@@ -53,3 +52,10 @@ Common Mistakes
 * Using sudo without knowing what the command does
 * Confusing files and directories
 * Forgetting the current path in the terminal
+
+Next Step
+
+Practice file management, permissions, services and basic networking commands.
+
+
+
