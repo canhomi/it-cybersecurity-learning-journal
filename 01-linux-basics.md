@@ -25,39 +25,39 @@ whoami
 uname -a
 ip a
 sudo apt update
+```
 
-```text
+## What I Learned
 
-What I Learned
+- How to navigate directories using the terminal
+- How to list files and folders
+- How to check the current user
+- How to check basic system information
+- How to update package lists
+- How Linux is used in IT and cybersecurity labs
 
-* How to navigate directories using the terminal
-* How to list files and folders
-* How to check the current user
-* How to check basic system information
-* How to update package lists
-* How Linux is used in IT and cybersecurity labs
-
-Real-World Use
+## Real-World Use
 
 Linux command line is used in:
 
-* Server administration
-* Cybersecurity labs
-* SOC investigations
-* Log analysis
-* Cloud administration
-* Troubleshooting
+- Server administration
+- Cybersecurity labs
+- SOC investigations
+- Log analysis
+- Cloud administration
+- Troubleshooting
 
-Common Mistakes
+## Common Mistakes
 
-* Typing commands without understanding them
-* Using sudo without knowing what the command does
-* Confusing files and directories
-* Forgetting the current path in the terminal
+- Typing commands without understanding them
+- Using sudo without knowing what the command does
+- Confusing files and directories
+- Forgetting the current path in the terminal
 
-Next Step
+## Next Step
 
 Practice file management, permissions, services and basic networking commands.
+
 
 
 
