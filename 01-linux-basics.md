@@ -26,7 +26,7 @@ uname -a
 ip a
 sudo apt update
 
-```bash
+```text
 
 What I Learned
 
